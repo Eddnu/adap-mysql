@@ -1,10 +1,7 @@
 {
-  "name": "express-hello-world",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "Express Hello World on Render",
   "main": "index.js",
-  "repository": "",
-  "author": "Render Developers",
   "license": "MIT",
   "private": false,
   "scripts": {
